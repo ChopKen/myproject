@@ -1,0 +1,26 @@
+/* This is a comment, it won't show on the website */
+
+/* Style for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;  /* Light gray background */
+    color: #333333;  /* Dark gray text */
+    margin: 0;
+    padding: 0;
+}
+
+/* Style for the heading (h1) */
+h1 {
+    text-align: center;
+    color: #4CAF50;  /* Green color */
+}
+
+/* Style for links */
+a {
+    color: #1E90FF;  /* Blue color */
+    text-decoration: none;  /* No underlining */
+}
+
+a:hover {
+    text-decoration: underline;  /* Underline when hovered over */
+}
